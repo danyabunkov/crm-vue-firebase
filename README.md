@@ -1,5 +1,8 @@
 # crm
 
+You can check my APP in FireBase Hosting:
+https://vue-crm-72e49.web.app/
+
 ## Project setup
 ```
 npm install
