@@ -1,6 +1,6 @@
 # crm
 
-You can check my APP in FireBase Hosting:
+You can check my APP on FireBase Hosting:
 https://vue-crm-72e49.web.app/
 
 ## Project setup
