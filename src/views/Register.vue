@@ -88,7 +88,7 @@
 <script>
 import { email, required, minLength } from "vuelidate/lib/validators";
 
-export default {
+export default { 
   name: 'register',
   data: () => ({
     email: '',
