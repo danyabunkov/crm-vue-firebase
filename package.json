@@ -11,7 +11,7 @@
     "core-js": "^3.6.4",
     "firebase": "^7.13.2",
     "firebase-tools": "^8.0.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "materialize-css": "^1.0.0",
     "register-service-worker": "^1.6.2",
     "vue": "^2.6.11",
